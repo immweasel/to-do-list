@@ -6,8 +6,8 @@
 
 **Картинки**
 
-![Главный экран](../todo-list/images/readme1.jpg)
-![Заполненная форма с задачами](../todo-list/images/readme2.jpg)
+![Главный экран](./images/readme1.jpg)
+![Заполненная форма с задачами](./images/readme2.jpg)
 
 **Макет**
 
