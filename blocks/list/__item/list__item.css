@@ -1,0 +1,20 @@
+.list__item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #F0F0F0;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.list__item:hover {
+  background-color: #E0E0E0;
+}
+
+
+/* .list__item > span {
+  flex: 1;
+  margin-right: 10px;
+} /*

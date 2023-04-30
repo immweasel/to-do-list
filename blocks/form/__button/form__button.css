@@ -1,0 +1,16 @@
+.form__button {
+  background-color: antiquewhite;
+  border: none;
+  color: rgba(84, 84, 84, 1);
+  padding: 10px;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  font-size: 15px;
+  font-style: normal;
+}
+
+.form__button:hover {
+  background-color: rgb(146, 139, 139);
+  color: antiquewhite;
+}

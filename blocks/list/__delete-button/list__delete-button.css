@@ -1,0 +1,13 @@
+.list__delete-button {
+  background-color: rgba(84, 84, 84, 1);
+  border: none;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.list__delete-button:hover {
+  background-color: #990000;
+}
